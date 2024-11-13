@@ -5,12 +5,12 @@
 <h3>Homepage</h3>
 <h3>Homepage Hero</h3>
 <ul>
-  <li>As the first thing people see when they visit your website, a hero section is the area that immediately shows up on the screen under your logo and menu</li>
-  <li>Should contain one background image and a title</li>
+<li>As the first thing people see when they visit your website, a hero section is the area that immediately shows up on the screen under your logo and menu</li>
+<li>Should contain one background image and a title</li>
 </ul>
 <h3>A list of events locations</h3>
 <ul>
-<li>Build a list of events locations in the last year (2024) to</li>
+<li>Build a list of events locations in the last year (2024)</li>
 <li>The following information should be shown in the list:</li>
 <ul>
 <li>The name of the city and country</li>
